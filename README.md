@@ -20,12 +20,12 @@ Python 编程教程系列。
 * For complete terms and conditions, please see the [LICENSE](LICENSE) file.
 ### 📁 Directory structure
 #### 1. Computer Fundamentals and Computational Thinking
-* `01-MIT-6.0001/`: MIT 6.0001 course notes and problem set solutions
-* `02-MIT-6.0002/`: Algorithms, Data Structures, Monte Carlo Simulations, and Computational Modeling
+* `01-python-basics/`: Covering Python basics, recursion, OOP, algorithmic efficiency, and data structures
+* `02-python-advanced/`: Algorithms, Data Structures, Monte Carlo Simulations, and Computational Modeling
 
 #### 2. Data Analysis and Toolchain
-* `03-SQL-Basics/`: Exercises on database queries and common SQL
-* `04-Pandas-Matplotlib/`: Practical case studies on data cleaning and data visualization
+* `03-pandas-matplotlib/`: Practical case studies on data cleaning and data visualization
+* `04-mysql-basics/`: Exercises on database queries and common SQL
 
 #### 3. Web3 & Advanced Practical Applications
 * `05-Web3-Crypto/` : web3.py, on-chain data interaction, and cryptography scripts
@@ -40,15 +40,15 @@ Python 编程教程系列。
 * 完整的许可条款与免责声明请参阅本仓库根目录下的 **[LICENSE](LICENSE)** 文件。
 ### 📁 目录结构
 #### 1. 计算机基础与计算思维
-* `01-MIT-6.0001/`：MIT 6.0001 课程笔记与习题解答
-* `02-MIT-6.0002/`：算法、数据结构、蒙特卡洛模拟与计算建模
+* `01-python-basics/`：基础、递归、面向对象编程、算法效率与数据结构导论
+* `02-python-advanced/`：算法、数据结构、蒙特卡洛模拟与计算建模
 
 #### 2. 数据分析与工具链
-* `03-SQL-Basics/`：数据库查询与常用 SQL 练习
-* `04-Pandas-Matplotlib/`：数据清洗与数据可视化实战案例
+* `03-pandas-matplotlib/`：数据清洗与数据可视化实战案例
+* `04-sql-basics/`：数据库查询与常用 SQL 练习
 
 #### 3. Web3 与进阶实战应用
-* `05-Web3-Crypto/`：web3.py、链上数据交互与密码学脚本
+* `05-web3-crypto/`：web3.py、链上数据交互与密码学脚本
 ---
 
 <div align="center">
