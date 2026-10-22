@@ -1,91 +1,53 @@
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
-(CC BY-NC-SA 4.0)
+CC BY-NC-SA 4.0
 
-Copyright (c) 2026 JaiMo
+Copyright © 2026 JaiMo
 
-This license applies to the educational materials, learning notes,
-documentation, explanations, translations, and other written content
-contained in this repository.
+Scope of This License
 
----
+Unless otherwise indicated, the original educational materials created by JaiMo in this repository are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0).
 
-## Repository Purpose
+These materials include, but are not limited to:
 
-This repository contains programming learning materials, including but not
-limited to:
+Educational notes and explanations
 
-- Personal learning notes
-- Educational explanations
-- Programming examples
-- Course-based study materials
-- Documentation and tutorials
+Programming tutorials and examples
 
-The purpose of this repository is to share knowledge and support learning.
+Exercises and solutions
 
----
+Documentation and other original learning materials
 
-## License Terms
+This license applies only to materials for which JaiMo has the rights necessary to grant this license.
 
-You are free to:
+License Terms
 
-- Share — copy and redistribute the material in any medium or format.
-- Adapt — remix, transform, and build upon the material.
+You are free to share and adapt the licensed materials for non-commercial purposes, provided that you comply with the terms of CC BY-NC-SA 4.0.
 
-Under the following conditions:
+You must:
 
-- Attribution — You must give appropriate credit to JaiMo and provide a link
-  to this repository or license.
+Give appropriate credit to the original creator, provide a link to the license, and indicate if changes were made.
 
-- NonCommercial — You may not use the material for commercial purposes.
+Use the materials for non-commercial purposes only, as defined by the license.
 
-- ShareAlike — If you remix, transform, or build upon this material, you must
-  distribute your contributions under the same license.
+Share adaptations under the same or a compatible license when distributing adapted materials.
 
----
+The full terms of this license are available at:
 
-## Source Attribution
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Some educational materials in this repository are based on or inspired by
-third-party courses, documentation, and educational resources.
+The official legal code is available at:
 
-Each course module may contain its own attribution information, including:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
 
-- Course name
-- Institution or organization
-- Instructor(s)
-- Original source link
-- Original license information
+Third-Party Materials
 
-The original materials remain subject to their respective licenses.
+This repository may include or refer to third-party materials, including course content, documentation, images, and other educational resources.
 
-Examples of course-based materials include:
+Third-party materials are not automatically covered by this license. Their original authors, sources, and applicable license terms must be respected. Where applicable, attribution and licensing information should be provided alongside the relevant materials.
 
-MIT OpenCourseWare courses, such as:
+In particular, materials from MIT OpenCourseWare and other educational institutions remain subject to their respective license terms. The presence of such materials in this repository does not change their original licensing conditions.
 
-- 6.0001 Introduction to Computer Science and Programming in Python
-- 6.0002 Introduction to Computational Thinking and Data Science
+Disclaimer
 
-MIT OpenCourseWare materials are provided under the
-Creative Commons Attribution-NonCommercial-ShareAlike license.
-
----
-
-## Software Code Notice
-
-Code examples, scripts, and executable programs in this repository may be
-included for educational purposes.
-
-Unless otherwise specified, code written by JaiMo may be used under the same
-license as this repository.
-
-Individual projects or software components may include separate licenses when
-applicable.
-
----
-
-## Disclaimer
-
-THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+Unless otherwise required by applicable law or separately agreed in writing, the licensed materials are provided “as is” and without warranties of any kind, to the fullest extent permitted by law.
