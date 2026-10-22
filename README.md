@@ -15,8 +15,9 @@ Python 编程教程系列。
 ## English
 
 ### 📖 Copyright and Open Source Statement
-* The original code and notes in this repository are released under the **MIT License**.
-* Content derived from third-party courses (such as MIT OCW) adheres to the original course's **CC BY-NC-SA 4.0** license; the original authors and sources are clearly cited.
+* All original learning materials, notes, and code in this repository created by the author are licensed under the **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** license.
+* Content derived from third-party courses (such as MIT OpenCourseWare) adheres to the original course's respective licensing terms, with full attribution provided.
+* For complete terms and conditions, please see the [LICENSE](LICENSE) file.
 ### 📁 Directory structure
 #### 1. Computer Fundamentals and Computational Thinking
 * `01-MIT-6.0001/`: MIT 6.0001 course notes and problem set solutions
@@ -34,8 +35,9 @@ Python 编程教程系列。
 ## 简体中文
 
 ### 📖 版权与开源声明
-* 本仓库中的原创代码和笔记基于 **MIT 许可证** 发布。
-* 衍生自第三方课程（如 MIT OCW）的内容遵循原课程的 **CC BY-NC-SA 4.0** 许可证；已明确标注原作者及来源。
+* 本仓库中由作者创作的所有原创学习笔记、文档及代码均采用 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)**（知识共享 署名-非商业性使用-相同方式共享 4.0 国际）许可协议。
+* 衍生自第三方课程（如 MIT OpenCourseWare 等）的内容均遵循其原课程对应的开源许可协议，并在相关位置明确标注了原作者与出处。
+* 完整的许可条款与免责声明请参阅本仓库根目录下的 **[LICENSE](LICENSE)** 文件。
 ### 📁 目录结构
 #### 1. 计算机基础与计算思维
 * `01-MIT-6.0001/`：MIT 6.0001 课程笔记与习题解答
