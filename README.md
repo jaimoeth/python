@@ -45,7 +45,7 @@ Python 编程教程系列。
 
 #### 2. 数据分析与工具链
 * `03-pandas-matplotlib/`：数据清洗与数据可视化实战案例
-* `04-sql-basics/`：数据库查询与常用 SQL 练习
+* `04-mysql-basics/`：数据库查询与常用 SQL 练习
 
 #### 3. Web3 与进阶实战应用
 * `05-web3-crypto/`：web3.py、链上数据交互与密码学脚本
